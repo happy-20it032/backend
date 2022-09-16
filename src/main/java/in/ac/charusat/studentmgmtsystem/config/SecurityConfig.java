@@ -1,5 +1,5 @@
 package in.ac.charusat.studentmgmtsystem.config;
-
+//
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
